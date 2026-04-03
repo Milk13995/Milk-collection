@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.smoothbore_gun_exhibit.name",
+  "tooltip": "dtf.gun.smoothbore_gun_exhibit.desc",
+  "data": "dtf:smoothbore_gun_exhibit_data",
+  "display": "dtf:smoothbore_gun_exhibit_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1106
+}

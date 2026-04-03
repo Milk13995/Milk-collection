@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.supercomputing_unit.name",
+  "tooltip": "dtf.gun.supercomputing_unit.desc",
+  "data": "dtf:supercomputing_unit_data",
+  "display": "dtf:supercomputing_unit_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1107
+}

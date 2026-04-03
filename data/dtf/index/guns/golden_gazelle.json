@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.golden_gazelle.name",
+  "tooltip": "dtf.gun.golden_gazelle.desc",
+  "data": "dtf:golden_gazelle_data",
+  "display": "dtf:golden_gazelle_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1001
+}

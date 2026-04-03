@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.pirate_gold.name",
+  "tooltip": "dtf.gun.pirate_gold.desc",
+  "data": "dtf:pirate_gold_data",
+  "display": "dtf:pirate_gold_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1103
+}

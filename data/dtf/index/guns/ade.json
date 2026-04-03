@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.ade.name",
+  "tooltip": "dtf.gun.ade.desc",
+  "data": "dtf:ade_data",
+  "display": "dtf:ade_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1100
+}

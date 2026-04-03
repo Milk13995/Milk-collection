@@ -1,0 +1,8 @@
+{
+  "name": "dtf.block.resuscitation_ventilator.name",
+  "display": "dtf:resuscitation_ventilator",
+  "data": "dtf:resuscitation_ventilator",
+  "tooltip": "dtf.block.resuscitation_ventilator.desc",
+  "id": "tacz:workbench_a",
+  "sort": 1
+}

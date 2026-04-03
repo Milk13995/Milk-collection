@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.premium_coffee_beans.name",
+  "tooltip": "dtf.gun.premium_coffee_beans.desc",
+  "data": "dtf:premium_coffee_beans_data",
+  "display": "dtf:premium_coffee_beans_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1104
+}

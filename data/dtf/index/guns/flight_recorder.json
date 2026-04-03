@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.flight_recorder.name",
+  "tooltip": "dtf.gun.flight_recorder.desc",
+  "data": "dtf:flight_recorder_data",
+  "display": "dtf:flight_recorder_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1000
+}

@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.walking_tank.name",
+  "tooltip": "dtf.gun.walking_tank.desc",
+  "data": "dtf:walking_tank_data",
+  "display": "dtf:walking_tank_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1108
+}

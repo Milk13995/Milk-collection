@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.rocket_fuel.name",
+  "tooltip": "dtf.gun.rocket_fuel.desc",
+  "data": "dtf:rocket_fuel_data",
+  "display": "dtf:rocket_fuel_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1105
+}

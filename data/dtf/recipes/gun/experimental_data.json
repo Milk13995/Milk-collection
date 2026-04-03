@@ -1,0 +1,8 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [],
+  "result": {
+    "type": "gun",
+    "id": "dtf:experimental_data"
+  }
+}

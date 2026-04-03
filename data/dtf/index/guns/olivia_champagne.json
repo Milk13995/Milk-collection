@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.olivia_champagne.name",
+  "tooltip": "dtf.gun.olivia_champagne.desc",
+  "data": "dtf:olivia_champagne_data",
+  "display": "dtf:olivia_champagne_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1003
+}

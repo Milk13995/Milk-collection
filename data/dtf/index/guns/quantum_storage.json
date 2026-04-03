@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.quantum_storage.name",
+  "tooltip": "dtf.gun.quantum_storage.desc",
+  "data": "dtf:quantum_storage_data",
+  "display": "dtf:quantum_storage_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1005
+}

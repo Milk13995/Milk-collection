@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.instant_success.name",
+  "tooltip": "dtf.gun.instant_success.desc",
+  "data": "dtf:instant_success_data",
+  "display": "dtf:instant_success_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1101
+}

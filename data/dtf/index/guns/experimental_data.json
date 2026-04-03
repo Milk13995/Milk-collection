@@ -1,0 +1,9 @@
+{
+  "name": "dtf.gun.experimental_data.name",
+  "tooltip": "dtf.gun.experimental_data.desc",
+  "data": "dtf:experimental_data_data",
+  "display": "dtf:experimental_data_display",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1004
+}

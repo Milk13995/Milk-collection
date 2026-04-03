@@ -1,0 +1,8 @@
+{
+  "name": "dtf.block.chessboardblock.name",
+  "display": "dtf:chessboardblock",
+  "data": "dtf:chessboardblock",
+  "tooltip": "dtf.block.chessboardblock.desc",
+  "id": "tacz:workbench_a",
+  "sort": 1
+}
