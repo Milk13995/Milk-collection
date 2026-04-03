@@ -1,0 +1,38 @@
+{
+  "model": "dtf:gun/golden_gazelle_geo",
+  "texture": "dtf:gun/uv/golden_gazelle",
+  "uv": [
+    "dtf:gun/uv/golden_gazelle",
+    "dtf:gun/uv/golden_gazelle_n",
+    "dtf:gun/uv/golden_gazelle_s"
+  ],
+  "iron_zoom": 1.33,
+  "zoom_model_fov": 45,
+  "ammo_count_style": "normal",
+  "damage_style": "per_projectile",
+  "show_crosshair": false,
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  },
+  "animation": "dtf:golden_gazelle",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "hud": "dtf:gun/hud/golden_gazelle",
+  "slot": "dtf:gun/slot/golden_gazelle"
+}

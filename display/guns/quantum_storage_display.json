@@ -1,0 +1,38 @@
+{
+  "model": "dtf:gun/quantum_storage_geo",
+  "texture": "dtf:gun/uv/quantum_storage",
+  "uv": [
+    "dtf:gun/uv/quantum_storage",
+    "dtf:gun/uv/quantum_storage_n",
+    "dtf:gun/uv/quantum_storage_s"
+  ],
+  "iron_zoom": 1.33,
+  "zoom_model_fov": 45,
+  "ammo_count_style": "normal",
+  "damage_style": "per_projectile",
+  "show_crosshair": false,
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  },
+  "animation": "dtf:quantum_storage",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "hud": "dtf:gun/hud/quantum_storage",
+  "slot": "dtf:gun/slot/quantum_storage"
+}

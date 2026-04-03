@@ -1,0 +1,22 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"static_idle": {
+			"loop": true,
+			"bones": {
+				"bone2": {
+					"rotation": [-127.5, -12.5, -180],
+					"position": [2, 11, -3]
+				},
+				"righthand_pos": {
+					"rotation": [98.5551, 9.1163, -189.9738],
+					"position": [1, -1, 5]
+				},
+				"lefthand_pos": {
+					"rotation": [-263.3797, -26.64987, -167.30024],
+					"position": [7, -1.8125, 6.4375]
+				}
+			}
+		}
+	}
+}
