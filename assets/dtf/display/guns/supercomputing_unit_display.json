@@ -1,0 +1,38 @@
+{
+  "model": "dtf:gun/supercomputing_unit_geo",
+  "texture": "dtf:gun/uv/supercomputing_unit",
+  "uv": [
+    "dtf:gun/uv/supercomputing_unit",
+    "dtf:gun/uv/supercomputing_unit_n",
+    "dtf:gun/uv/supercomputing_unit_s"
+  ],
+  "iron_zoom": 1.33,
+  "zoom_model_fov": 45,
+  "ammo_count_style": "normal",
+  "damage_style": "per_projectile",
+  "show_crosshair": false,
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  },
+  "animation": "dtf:supercomputing_unit",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "hud": "dtf:gun/hud/supercomputing_unit",
+  "slot": "dtf:gun/slot/supercomputing_unit"
+}

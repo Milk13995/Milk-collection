@@ -1,0 +1,33 @@
+{
+  "model": "dtf:gun/smoothbore_gun_exhibit_geo",
+  "texture": "dtf:gun/uv/smoothbore_gun_exhibit",
+  "iron_zoom": 1.33,
+  "zoom_model_fov": 45,
+  "ammo_count_style": "normal",
+  "damage_style": "per_projectile",
+  "show_crosshair": false,
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  },
+  "animation": "dtf:smoothbore_gun_exhibit",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "hud": "dtf:gun/hud/smoothbore_gun_exhibit",
+  "slot": "dtf:gun/slot/smoothbore_gun_exhibit"
+}
